@@ -1,4 +1,16 @@
 Need to finish index.js ---- connecitons through
 
+use npm scripts to seed?
+
+using through model!!!
+
+
+
+
+
+------ check on index.js in models for fixes of listed items
+
+------    products deletes but still shows 400 bad request
+
 
 
