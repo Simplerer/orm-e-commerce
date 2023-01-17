@@ -13,4 +13,16 @@ using through model!!!
 ------    products deletes but still shows 400 bad request
 
 
+in get requests, inside findall({
+    include: [{ model: yada,
+    attribute: {
+        exclude: [yidda],
+    }}]
+})
+
+this includes the model yada, all data come through, to exclude excessive info use attributs inside that object of model and exclude what is extra.
+
+use this ot clean up gets for exactly what is asked for
+
+
 
